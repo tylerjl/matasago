@@ -1,6 +1,8 @@
 matasago
 ========
 
+[![Build Status](https://travis-ci.org/tylerjl/matasago.svg)](https://travis-ci.org/tylerjl/matasago)
+
 Learning go, unit testing, travis-ci, and crypto at the same time.
 
 ## Warning: Spoilers!
