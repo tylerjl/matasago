@@ -5,7 +5,7 @@ import (
     "encoding/base64"
 )
 
-func decode64(hex_s string) (string, error) {
+func Decode64(hex_s string) (string, error) {
 
     decoded, err := hex.DecodeString(hex_s)
     if err != nil {
